@@ -51,7 +51,9 @@ The analysis leverages historical **West Texas Intermediate (WTI) crude oil pric
 
 ## 📂 Repository Structure
 ├── Forecasting_Excel/          # Excel file with ETS forecasting
+
 ├── Scenario_Analysis_Report/   # Word/PDF report with analysis & screenshots
+
 ├── README.md                   # Project documentation
 
 ---
